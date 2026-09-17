@@ -1,12 +1,12 @@
 # Justdial Website – Manual Testing Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project contains manual testing documentation prepared for the Justdial website.
 
 The objective of this project is to validate important website functionalities such as business search, location handling, filters, business listings, contact actions, reviews, authentication, navigation, responsive behavior, and negative test scenarios.
 
-## 🧪 Testing Type
+## Testing Type
 
 * Manual Functional Testing
 * UI/UX Testing
@@ -15,7 +15,7 @@ The objective of this project is to validate important website functionalities s
 * Basic Performance Testing
 * Regression-oriented Test Coverage
 
-## 🔍 Modules Tested
+## Modules Tested
 
 * Business Search
 * Location Selection
@@ -35,7 +35,7 @@ The objective of this project is to validate important website functionalities s
 * Special Character Handling
 * Back Navigation
 
-## 📊 Test Execution Summary
+## Test Execution Summary
 
 | Status           | Count |
 | ---------------- | ----: |
@@ -44,7 +44,7 @@ The objective of this project is to validate important website functionalities s
 | Blocked          |     0 |
 | Total Test Cases |    20 |
 
-## 🐞 Defect Identified
+## Defect Identified
 
 ### JD-DEF-001 – Sorting and Location Relevance
 
@@ -52,7 +52,7 @@ While testing the Friendly Rating sorting option, the results were sorted succes
 
 The issue has been documented in the Defect Log for further requirement confirmation.
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```text
 Test_Documentation/
@@ -73,13 +73,13 @@ The Excel workbook contains:
 * Execution Summary
 * Defect Log
 
-## 🛠️ Testing Approach
+## Testing Approach
 
 The test cases were executed by providing different search inputs, changing locations, applying filters, validating business information, checking navigation and contact actions, and performing negative-input testing.
 
 Actual observations were recorded in the test execution report.
 
-## 👩‍💻 Author
+## Author
 
 **Ramya R**
 **212223230169**
