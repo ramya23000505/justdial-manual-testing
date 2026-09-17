@@ -55,8 +55,8 @@ The issue has been documented in the Defect Log for further requirement confirma
 ## Repository Contents
 
 ```text
-Test_Documentation/
-└── Justdial_Manual_Test_Report_Updated.xlsx
+ Justdial_Manual_Test_Report_Updated.xlsx
+ Defect-TC011.jpg
 ```
 
 The Excel workbook contains:
